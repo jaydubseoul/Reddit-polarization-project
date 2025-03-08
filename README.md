@@ -39,15 +39,6 @@ This project explores political polarization through Reddit, specifically in the
 * **Machine Learning:**
    * TF-IDF features were used for logistic regression and LSTM classifier.
 
-### Installation Instructions:
-1. Clone the repository:  
-   `git clone https://github.com/yourusername/political-polarization-reddit.git`
-   
-2. Install dependencies:  
-   `pip install -r requirements.txt`
-   
-3. Run the analysis:  
-   `python analysis.py`
 
 ### Results:
 * **Classifier Performance:**
